@@ -1,4 +1,4 @@
-# Website Saver and Publisher
+# Dynamic Website Saver and Publisher
 
 This script allows you to save a dynamic website and its associated resources to your local machine and publish the changes to a remote Git repository. Made speicifically for easier publishing on Github pages. 
 
