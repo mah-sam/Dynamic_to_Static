@@ -46,4 +46,4 @@ If you find any issues with the script or have suggestions for improvements, ple
 
 ## License
 
-This script is licensed under the MIT License. See the `LICENSE` file for more information.
+This script is licensed under the Apache License 2.0 License. See the `LICENSE` file for more information.
